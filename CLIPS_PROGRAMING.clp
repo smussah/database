@@ -1,4 +1,4 @@
-
+; Written by Sadik Mussah 
 ;when user chose wrong numer 
 (defrule warn
  ?c<- (category $?)
